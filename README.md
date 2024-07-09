@@ -19,8 +19,8 @@ This is my submission for the second Frontend Mentor project. Leveraging my basi
 
 ### Screenshot
 
-![desktop](screenshots\screenshot2-desktop.png?raw=true "Desktop")
-![mobile](screenshots\screenshot2-mobile.png?raw=true "Mobile")
+![desktop](screenshots/screenshot2-desktop.png?raw=true "Desktop")
+![mobile](screenshots/screenshot2-mobile.png?raw=true "Mobile")
 
 
 ### Links
