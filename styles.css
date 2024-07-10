@@ -29,7 +29,7 @@ body, html {
     width: 100%;
     box-shadow: 8px 6px 0 black;
     box-sizing: border-box;
-    border: 2px solid black;
+    border: 2px solid black
 }
 
 .container img {
@@ -72,7 +72,7 @@ p {
 
 .text {
     color: hsl(0, 0%, 50%);
-    line-height: 2.0;
+    line-height: 1.5;
 }
 
 .author-info {
@@ -87,14 +87,16 @@ p {
 }
 
 .author-name {
+    font-weight: 600;
     display: flex;
     align-items: center;
+    margin-left: 15px;
     font-weight: 800;
-    margin-left: 10px;
 }
 
 footer {
     padding: 10px;
+    margin: 10px;
     width: 100%;
     text-align: center;
     border-radius: 10px;

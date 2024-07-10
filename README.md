@@ -25,8 +25,8 @@ This is my submission for the second Frontend Mentor project. Leveraging my basi
 
 ### Links
 
-[Repository](https://github.com/dquinn089/frontend-mentor-qrcode)
-[Live Link](https://dquinn089.github.io/frontend-mentor-qrcode/)
+[Repository](https://github.com/dquinn089/frontend-mentor-blog-preview-card/)
+[Live Link](https://dquinn089.github.io/frontend-mentor-blog-preview-card/)
 
 ## My process
 
